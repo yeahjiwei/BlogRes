@@ -1,0 +1,18 @@
+[
+  ["class", "method", "accuracy"],
+  ["bedroom", "Bof_NN_100d", 12],
+  ["bedroom", "Bof_NN_200d", 25],
+  ["bedroom", "Bof_NN_300d", 17],
+  ["bedroom", "Bof_NN_400d", 22],
+  ["bedroom", "Bof_NN_500d", 8],
+  ["bedroom", "Bof_SVM_GAUSS_100d", 26],
+  ["bedroom", "Bof_SVM_GAUSS_200d", 23],
+  ["bedroom", "Bof_SVM_GAUSS_300d", 21],
+  ["bedroom", "Bof_SVM_GAUSS_400d", 23],
+  ["bedroom", "Bof_SVM_GAUSS_500d", 23],
+  ["bedroom", "Bof_SVM_LINEAR_100d", 35],
+  ["bedroom", "Bof_SVM_LINEAR_200d", 41],
+  ["bedroom", "Bof_SVM_LINEAR_300d", 39],
+  ["bedroom", "Bof_SVM_LINEAR_400d", 39],
+  ["bedroom", "Bof_SVM_LINEAR_500d", 31]
+]
